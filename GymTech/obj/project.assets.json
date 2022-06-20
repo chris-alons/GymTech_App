@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kris_\\Desktop\\GymTech\\GymTech.csproj",
+      "projectUniqueName": "C:\\Users\\kris_\\Downloads\\GymTech - test\\GymTech.csproj",
       "projectName": "GymTech",
-      "projectPath": "C:\\Users\\kris_\\Desktop\\GymTech\\GymTech.csproj",
+      "projectPath": "C:\\Users\\kris_\\Downloads\\GymTech - test\\GymTech.csproj",
       "packagesPath": "C:\\Users\\kris_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kris_\\Desktop\\GymTech\\obj\\",
+      "outputPath": "C:\\Users\\kris_\\Downloads\\GymTech - test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kris_\\AppData\\Roaming\\NuGet\\NuGet.Config",
