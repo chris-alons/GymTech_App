@@ -1,0 +1,66 @@
+C:\Users\kris_\Desktop\GymTech\bin\Debug\net6.0-windows\GymTech.exe
+C:\Users\kris_\Desktop\GymTech\bin\Debug\net6.0-windows\GymTech.deps.json
+C:\Users\kris_\Desktop\GymTech\bin\Debug\net6.0-windows\GymTech.runtimeconfig.json
+C:\Users\kris_\Desktop\GymTech\bin\Debug\net6.0-windows\GymTech.dll
+C:\Users\kris_\Desktop\GymTech\bin\Debug\net6.0-windows\GymTech.pdb
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\GymTech.csproj.AssemblyReference.cache
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\GymTech.GymTech.resources
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\GymTech.Properties.Resources.resources
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\GymTech.csproj.GenerateResource.cache
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\GymTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\GymTech.AssemblyInfoInputs.cache
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\GymTech.AssemblyInfo.cs
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\GymTech.csproj.CoreCompileInputs.cache
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\GymTech.dll
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\refint\GymTech.dll
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\GymTech.pdb
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\GymTech.genruntimeconfig.cache
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\ref\GymTech.dll
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\GymTech.Login.resources
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\Administrador.FormAdmin.resources
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\Administrador.Formtrainer.resources
+C:\Users\kris_\Desktop\GymTech\obj\Debug\net6.0-windows\Administrador.Formmiembro.resources
+C:\Users\kris_\Desktop\GymTech - test\bin\Debug\net6.0-windows\GymTech.exe
+C:\Users\kris_\Desktop\GymTech - test\bin\Debug\net6.0-windows\GymTech.deps.json
+C:\Users\kris_\Desktop\GymTech - test\bin\Debug\net6.0-windows\GymTech.runtimeconfig.json
+C:\Users\kris_\Desktop\GymTech - test\bin\Debug\net6.0-windows\GymTech.dll
+C:\Users\kris_\Desktop\GymTech - test\bin\Debug\net6.0-windows\GymTech.pdb
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\GymTech.csproj.AssemblyReference.cache
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\Administrador.FormAdmin.resources
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\Administrador.Formmiembro.resources
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\Administrador.Formtrainer.resources
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\GymTech.GymTech.resources
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\GymTech.Login.resources
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\GymTech.Properties.Resources.resources
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\GymTech.csproj.GenerateResource.cache
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\GymTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\GymTech.AssemblyInfoInputs.cache
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\GymTech.AssemblyInfo.cs
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\GymTech.csproj.CoreCompileInputs.cache
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\GymTech.dll
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\refint\GymTech.dll
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\GymTech.pdb
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\GymTech.genruntimeconfig.cache
+C:\Users\kris_\Desktop\GymTech - test\obj\Debug\net6.0-windows\ref\GymTech.dll
+C:\Users\kris_\Downloads\GymTech - test\bin\Debug\net6.0-windows\GymTech.exe
+C:\Users\kris_\Downloads\GymTech - test\bin\Debug\net6.0-windows\GymTech.deps.json
+C:\Users\kris_\Downloads\GymTech - test\bin\Debug\net6.0-windows\GymTech.runtimeconfig.json
+C:\Users\kris_\Downloads\GymTech - test\bin\Debug\net6.0-windows\GymTech.dll
+C:\Users\kris_\Downloads\GymTech - test\bin\Debug\net6.0-windows\GymTech.pdb
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\GymTech.csproj.AssemblyReference.cache
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\Administrador.FormAdmin.resources
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\Administrador.Formmiembro.resources
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\Administrador.Formtrainer.resources
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\GymTech.GymTech.resources
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\GymTech.Login.resources
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\GymTech.Properties.Resources.resources
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\GymTech.csproj.GenerateResource.cache
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\GymTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\GymTech.AssemblyInfoInputs.cache
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\GymTech.AssemblyInfo.cs
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\GymTech.csproj.CoreCompileInputs.cache
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\GymTech.dll
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\refint\GymTech.dll
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\GymTech.pdb
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\GymTech.genruntimeconfig.cache
+C:\Users\kris_\Downloads\GymTech - test\obj\Debug\net6.0-windows\ref\GymTech.dll
